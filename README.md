@@ -1,6 +1,4 @@
-# shockbyte-prototype
-
-## High Fidelity Prototype for shockbyte code assessment
+### High Fidelity Prototype for shockbyte code assessment
 
 For good luck run:
 `npm install`
